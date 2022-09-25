@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gok0-35 aka Gökmen Soysal
+- 👀 I’m interested in coding, web3, animals, music and f1 
+- 🌱 I’m currently learning Solidity, JavaScript, Python, Java, SQL, CSS, HTML, C
+- 💞️ I’m looking to collaborate on web3 projects
+- 📫 How to reach me? Mail: gokmensoysal@gmail.com, LinkedIn: https://www.linkedin.com/in/g%C3%B6kmen-soysal-ab9581200/
