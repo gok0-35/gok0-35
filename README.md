@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Gökmen Soysal (@gok0-35)
 
 ## 👀 Interests
-- 💻 Coding (especially ASP.NET Core)
+- 💻 Coding 
 - ⚽ Every kind of sports
 - 🐾 Animals
 - 🎵 Music
