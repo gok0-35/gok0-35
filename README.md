@@ -1,5 +1,19 @@
-- 👋 Hi, I’m @gok0-35 aka Gökmen Soysal
-- 👀 I’m interested in coding, web3, animals, music and f1 
-- 🌱 I’m currently learning Solidity, JavaScript, Python, Java, SQL, CSS, HTML, C
-- 💞️ I’m looking to collaborate on web3 projects
-- 📫 How to reach me? Mail: gokmensoysal@gmail.com, LinkedIn: https://www.linkedin.com/in/g%C3%B6kmen-soysal-ab9581200/
+# 👋 Hi, I’m Gökmen Soysal (@gok0-35)
+
+## 👀 Interests
+- 💻 Coding (especially ASP.NET Core)
+- ⚽ Every kind of sports
+- 🐾 Animals
+- 🎵 Music
+- 🏎️ Formula 1
+
+## 🌱 Currently
+- ASP.NET Core Developer
+- If time is given, I can code anything 🙂
+
+## 💞️ Collaboration
+- Open to collaborate on any projects
+
+## 📫 Contact
+- 📧 Email: gokmensoysal@gmail.com  
+- 🔗 LinkedIn: [Gökmen Soysal](https://www.linkedin.com/in/g%C3%B6kmen-soysal-ab9581200/)
